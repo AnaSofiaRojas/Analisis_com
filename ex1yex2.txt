@@ -1,0 +1,14 @@
+Exercise 1 O(n^2)    f(n) <=c(g(n))
+b) f(n)= 2n^2+13n
+
+
+__________________________________________
+Exercise 2 omega(n^2)          f(n) >=c(g(n))
+a) f(n)= 1/50 n^3 + n^2 
+b) f(n)=n^2(sin(n)+3)
+e) f(n)=n^2log(n)
+f) f(n)=n!
+
+
+____________________
+Exercise 3. El inciso a no esta completo pero comparto lo que llegue a hacer.
